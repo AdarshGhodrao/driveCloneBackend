@@ -203,5 +203,3 @@ DriveCloneBackend/
   <p>Made by <strong>Adarsh Ghodrao</strong></p>
 </div>
 
-<h1>driveCloneBackend</h1>
-
